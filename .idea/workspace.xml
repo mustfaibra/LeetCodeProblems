@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy| No.21 | Two List Merger Problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/ArrayDuplicateRemover.kt" afterDir="false" />
+    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy| No.26 | Remove Duplicates from Sorted Array">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/ElementRemover.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.ArrayDuplicateRemoverKt">
     <configuration name="ArrayDuplicateRemoverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems.easy.ArrayDuplicateRemoverKt" />
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683394056632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+ Easy| No.26 | Remove Duplicates from Sorted Array">
+      <created>1683399153387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683399153387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+ Project setup&#10;+ Two Sum Problem" />
     <MESSAGE value="+ Easy| No.21 | Two List Merger Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Easy| No.21 | Two List Merger Problem" />
+    <MESSAGE value="+ Easy| No.26 | Remove Duplicates from Sorted Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Easy| No.26 | Remove Duplicates from Sorted Array" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
