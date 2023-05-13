@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy| No.26 | Remove Duplicates from Sorted Array">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/ElementRemover.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy | No.28 | Find the Index of the First Occurrence in a String">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/SearchInsertPosition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -49,9 +55,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArrayDuplicateRemoverKt">
+  <component name="RunManager" selected="Kotlin.SearchInsertPositionKt">
     <configuration name="ArrayDuplicateRemoverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems.easy.ArrayDuplicateRemoverKt" />
+      <module name="LeetCodeProblems.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInsertPositionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.easy.SearchInsertPositionKt" />
+      <module name="LeetCodeProblems.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringFirstOccurrenceIndexKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.easy.StringFirstOccurrenceIndexKt" />
       <module name="LeetCodeProblems.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SearchInsertPositionKt" />
+        <item itemvalue="Kotlin.StringFirstOccurrenceIndexKt" />
         <item itemvalue="Kotlin.ArrayDuplicateRemoverKt" />
         <item itemvalue="Kotlin.TwoListMergerKt" />
         <item itemvalue="Kotlin.TwoNumSumKt" />
@@ -109,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683399153387</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+ Easy| No.27 | Remove Element occurrences from array">
+      <created>1683975864093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683975864093</updated>
+    </task>
+    <task id="LOCAL-00005" summary="+ Easy | No.28 | Find the Index of the First Occurrence in a String">
+      <created>1683976960420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683976960420</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,7 +163,9 @@
     <MESSAGE value="+ Project setup&#10;+ Two Sum Problem" />
     <MESSAGE value="+ Easy| No.21 | Two List Merger Problem" />
     <MESSAGE value="+ Easy| No.26 | Remove Duplicates from Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Easy| No.26 | Remove Duplicates from Sorted Array" />
+    <MESSAGE value="+ Easy| No.27 | Remove Element occurrences from array" />
+    <MESSAGE value="+ Easy | No.28 | Find the Index of the First Occurrence in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Easy | No.28 | Find the Index of the First Occurrence in a String" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
