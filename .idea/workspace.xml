@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy | No.35 | Search Insert Position.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/LengthOfLastWord.kt" afterDir="false" />
+    <list default="true" id="2656edb6-aa4d-4ecb-a293-f7dd516036fb" name="Changes" comment="+ Easy | No.58 | Length of Last Word.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/problems/easy/PlusOneIncrementer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.LengthOfLastWordKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.PlusOneIncrementerKt">
     <configuration name="ArrayDuplicateRemoverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems.easy.ArrayDuplicateRemoverKt" />
       <module name="LeetCodeProblems.main" />
@@ -63,6 +63,13 @@
     </configuration>
     <configuration name="LengthOfLastWordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems.easy.LengthOfLastWordKt" />
+      <module name="LeetCodeProblems.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusOneIncrementerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.easy.PlusOneIncrementerKt" />
       <module name="LeetCodeProblems.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoListMergerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.easy.TwoListMergerKt" />
-      <module name="LeetCodeProblems.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PlusOneIncrementerKt" />
         <item itemvalue="Kotlin.LengthOfLastWordKt" />
         <item itemvalue="Kotlin.SearchInsertPositionKt" />
         <item itemvalue="Kotlin.StringFirstOccurrenceIndexKt" />
         <item itemvalue="Kotlin.ArrayDuplicateRemoverKt" />
-        <item itemvalue="Kotlin.TwoListMergerKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683979066145</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="+ Easy | No.58 | Length of Last Word.">
+      <created>1683980299071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683980299071</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +178,8 @@
     <MESSAGE value="+ Easy| No.27 | Remove Element occurrences from array" />
     <MESSAGE value="+ Easy | No.28 | Find the Index of the First Occurrence in a String" />
     <MESSAGE value="+ Easy | No.35 | Search Insert Position." />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Easy | No.35 | Search Insert Position." />
+    <MESSAGE value="+ Easy | No.58 | Length of Last Word." />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Easy | No.58 | Length of Last Word." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
